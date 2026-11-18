@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I am Rudraksh Soni!
 
-<!--
-**Valocity24/Valocity24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- B.Tech CSE (AI & ML) Student at K.R. Mangalam University, Gurugram (Batch 2026–2030)
+- Currently learning: Linux shell scripting, Git/GitHub workflows, and Python
+- Interested in: Artificial Intelligence & Machine Learning (AI-ML) and Embedded Systems
 
-Here are some ideas to get you started:
+## Technical Skills
+| Category | Technologies |
+| :--- | :--- |
+| Languages | Python, C/C++, Bash / Shell Scripting |
+| Tools | Git, GitHub, VS Code, Linux Terminal, Postman |
+| Concepts | File Systems, Process Management, REST APIs, Markdown |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+- [CSE103 Lab — LAB 3](https://github.com/Valocity24/cse103-lab-LAB3) — Git workflows, API interaction, and Markdown documentation
+- VisionStep — Smart Navigation & Fall Alert Shoe (ESP32, C++, HC-SR04, MPU6050)
+
+## Currently Working On
+- Semester 1 lab projects and building daily problem-solving habits
+
+## Connect With Me
+- LinkedIn: https://www.linkedin.com/in/rudrakshsoni-/
+- Email: sonirudraksh894@gmail.com
+- College Email: 2601730047@krmu.edu.in
