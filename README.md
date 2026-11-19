@@ -8,7 +8,7 @@
 ## Technical Skills
 | Category | Technologies |
 | :--- | :--- |
-| Languages | Python, C/C++, Bash / Shell Scripting |
+| Languages | Python, C/C++, Bash / Shell Scripting, HTML/CSS, JavaScript |
 | Tools | Git, GitHub, VS Code, Linux Terminal, Postman |
 | Concepts | File Systems, Process Management, REST APIs, Markdown |
 
